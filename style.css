@@ -1,0 +1,16 @@
+body{
+    main-height:2000px;
+}
+
+.jumotron {
+    padding-top: 2rem;
+    background-color: pink
+}
+
+#projects{
+    background-color: purple;
+}
+
+section {
+    padding-top: 5rem;
+}
